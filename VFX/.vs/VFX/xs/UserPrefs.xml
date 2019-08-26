@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1EF7F1EB-DFC0-4FD2-D39E-35325C621A73}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Epic Toon FX/ETFX Readme.txt">
+    <Files>
+      <File FileName="Assets/Epic Toon FX/ETFX Readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VFX" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Epic Toon FX" expanded="True">
+                <Node name="Demo" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9d80d9d2-2122-4abf-a3af-86160c04685f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
