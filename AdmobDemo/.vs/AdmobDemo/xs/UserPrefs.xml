@@ -1,23 +1,21 @@
 ﻿<Properties StartupConfiguration="{0C6803E7-6331-8681-93F2-5FFA13EA1E3B}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleAd.cs">
     <Files>
-      <File FileName="Assets/GoogleAd.cs" Line="17" Column="36" />
+      <File FileName="Assets/GoogleAd.cs" Line="220" Column="65" />
+      <File FileName="../../../Desktop/Roll A Ball/Assets/Scripts/GoogleAds.cs" />
+      <File FileName="Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs" Line="22" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AdmobDemo" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="GoogleAd.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="AdmobDemo" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cc0def89-e67f-480a-b076-80e0e201707d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="59c00a2d-1931-44ce-b0f4-5a0014294e09" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
